@@ -1,0 +1,504 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SKT Simple\n"
+"POT-Creation-Date: 2016-05-13 12:28+0530\n"
+"PO-Revision-Date: 2016-05-11 12:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: SKT Themes <support@sktthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr;esc_attr_e;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:14
+msgid "404 Not Found"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"Looks like you have taken a wrong turn..... Don't worry... it happens to the "
+"best of us."
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:41
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:44
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:47
+msgid "Asides"
+msgstr ""
+
+#: archive.php:50
+msgid "Images"
+msgstr ""
+
+#: archive.php:53
+msgid "Videos"
+msgstr ""
+
+#: archive.php:56
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:59
+msgid "Links"
+msgstr ""
+
+#: archive.php:62 sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: archive.php:85 category.php:32 index.php:36 index.php:66
+msgid "Back"
+msgstr ""
+
+#: archive.php:86 category.php:33 inc/template-tags.php:38 index.php:37
+#: index.php:67
+msgid "Next"
+msgstr ""
+
+#: category.php:19
+msgid "Category: "
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-homepost.php:25 header.php:102 header.php:122 header.php:129
+#: header.php:136 header.php:170 header.php:183
+msgid "Read More"
+msgstr ""
+
+#: content-page.php:18 content-single.php:33 content.php:35 image.php:59
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-single.php:45 image.php:33 image.php:65
+#: inc/template-tags.php:76 inc/template-tags.php:95
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:38 content.php:14
+msgid ", "
+msgstr ""
+
+#: content-single.php:39
+msgid "&nbsp;|&nbsp; Tags: "
+msgstr ""
+
+#: content.php:28
+msgid "Read More &raquo;"
+msgstr ""
+
+#: content.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:53
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:68
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:69
+msgid "Appears on blog page sidebar"
+msgstr ""
+
+#: header.php:25
+msgid "+11 123 456 7890"
+msgstr ""
+
+#: header.php:27 inc/customizer.php:326
+msgid "Mon. - Fri. 10:00 - 21:00"
+msgstr ""
+
+#: header.php:59
+msgid "Menu"
+msgstr ""
+
+#: header.php:119
+msgid "Welcome To SKT Simple"
+msgstr ""
+
+#: header.php:120
+msgid ""
+"Phasellus nec metus scelerisque, feugiat est quis, vestibulum ante. Proin id "
+"vehicula enim."
+msgstr ""
+
+#: header.php:127
+msgid "Truly Wordpress Theme"
+msgstr ""
+
+#: header.php:128
+msgid ""
+"Phasellus nec metus feugiat est quis, vestibulum ante. Proin id vehicula "
+"enim feugiat est quis, vestibulum ante habitant"
+msgstr ""
+
+#: header.php:134
+msgid "Best Wordpress Themes"
+msgstr ""
+
+#: header.php:135
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla commodo enim "
+"nisl, eget fringilla arcu feugiat Pellentesque."
+msgstr ""
+
+#: header.php:179
+msgid "Multi Purpose "
+msgstr ""
+
+#: header.php:181
+msgid ""
+"Phasellus nec metus scelerisque, feugiat est quis, vestibulum ante. Proin id "
+"vehicula enim. Pellentesque habitant."
+msgstr ""
+
+#: header.php:204
+msgid "About SKT"
+msgstr ""
+
+#: header.php:204
+msgid "SIMPLE"
+msgstr ""
+
+#: header.php:209
+msgid "Expert Team"
+msgstr ""
+
+#: header.php:210 header.php:216 header.php:222
+msgid ""
+"Nulla et ullamcorper sapien. Pellentesque habitant morbi tristique senectus "
+"et netus et malesuada fames ac turpis egestas. Vestibulum ac justo ornare, "
+"blan posuere lorem. Donec tempus libero euismod posuere sagittis..."
+msgstr ""
+
+#: header.php:215
+msgid "Professional Company"
+msgstr ""
+
+#: header.php:221
+msgid "Best Services"
+msgstr ""
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/about-themes.php:11
+msgid "About Theme"
+msgstr ""
+
+#: inc/about-themes.php:30
+msgid "About Theme Info"
+msgstr ""
+
+#: inc/about-themes.php:32
+msgid "Descriptions"
+msgstr ""
+
+#: inc/about-themes.php:39
+msgid "Live Demo"
+msgstr ""
+
+#: inc/about-themes.php:40
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/about-themes.php:41
+msgid "Documentation"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "More color options in PRO Version."
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid ""
+"Featured Image Size Should be ( 1170x667 ) More slider settings available in "
+"PRO Version."
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Select page for slide one:"
+msgstr ""
+
+#: inc/customizer.php:65
+msgid "Select page for slide two:"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Select page for slide three:"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Home About Section"
+msgstr ""
+
+#: inc/customizer.php:95
+msgid "Select Page from the dropdown for home about section"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Home Four Featured Box"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Select Page from the dropdown for four featured box section"
+msgstr ""
+
+#: inc/customizer.php:188
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "More social icon available in PRO Version."
+msgstr ""
+
+#: inc/customizer.php:199
+msgid "Add facebook link here"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Add twitter link here"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Add google plus link here"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "Add linkedin link here"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Footer Area"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "About Us"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Add Title For About Us"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid ""
+"Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat sapien "
+"mauris, vitae sodales tellus venenatis ac. Suspendisse suscipit velit id "
+"ultricies auctor. Duis turpis arcu, aliquet sed sollicitudin sed, porta quis "
+"urna. Quisque velit nibh, egestas et erat a, vehicula interdum augue. <br /> "
+"</br > Donec ut ex ac nulla pellentesque mollis in a enim. Praesent placerat "
+"sapien mauris, vitae sodales tellus venenatis ac suspendisse suscipit velit. "
+msgstr ""
+
+#: inc/customizer.php:255
+msgid "Add description for about us"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Our Services"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Add title for our services"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Add title for office hours"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:289
+msgid "Add title for contact address"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "SKT Simple 10 Down Street, Hunterdon, United States"
+msgstr ""
+
+#: inc/customizer.php:301
+msgid "Add contact address here"
+msgstr ""
+
+#: inc/customizer.php:308
+msgid "Copyright @ 2016 SKT Simple. All Rights Reserved"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Add copyright text for footer"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Header Top Bar Option"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Add opening hours for header"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid " +11 123 456 7890"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "Add contact phone number for header"
+msgstr ""
+
+#: inc/template-tags.php:33
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "Next Post:"
+msgstr ""
+
+#: inc/template-tags.php:41
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:42
+msgid "Previous Post:"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:99
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:190
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Published %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: index.php:19
+msgid "Recent"
+msgstr ""
+
+#: index.php:19
+msgid "Posts"
+msgstr ""
+
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:11
+msgid "Category"
+msgstr ""
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr ""
