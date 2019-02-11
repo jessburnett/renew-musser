@@ -1,3 +1,4 @@
+Customization and expansion of free thempe below
 /*-----------------------------------------------------------------------------------*/
 /* SKT Simple Responsive WordPress Theme */
 /*-----------------------------------------------------------------------------------*/
@@ -11,12 +12,6 @@ Author URI      :   http://www.sktthemes.net/
 
 license         :   GNU General Public License v3.0
 License URI     :   http://www.gnu.org/licenses/gpl.html
-
-/*-----------------------------------------------------------------------------------*/
-/* About Author - Contact Details */
-/*-----------------------------------------------------------------------------------*/
-
-email       :   support@sktthemes.com
 
 /*-----------------------------------------------------------------------------------*/
 /* Theme Resources */
